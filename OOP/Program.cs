@@ -6,7 +6,8 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person pers = new Person();
+            Console.WriteLine("Print people");
         }
     }
 }
