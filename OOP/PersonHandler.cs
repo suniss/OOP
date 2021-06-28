@@ -67,12 +67,6 @@ namespace OOP
 
         }
 
-       public void PeopleInfo(int age, string fname, string lname, double height, double weight)
-        {
-            Console.WriteLine("Name");
-
-            
-
-        }
     }
+    
 }
