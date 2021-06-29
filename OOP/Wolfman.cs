@@ -8,5 +8,7 @@ namespace OOP
 {
     class Wolfman : Wolf
     {
+        public Wolfman(int danger) : base(danger)
+        { }
     }
 }

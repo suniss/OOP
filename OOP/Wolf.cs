@@ -10,6 +10,12 @@ namespace OOP
     {
 
         private int danger;
+
+        public Wolf(int danger)
+        {
+            this.danger = danger;
+        }
+
         public int Danger
         {
             get { return danger; }
