@@ -50,7 +50,7 @@ namespace OOP
 
         //F13. Bird
         // F14.Animal
-        //F9 . Hästen inherit från Animal inte Dog
+        //F9 . Hästen inherit från Animal inte Dog, behöver man ha virtual keyword för att invoke method
         //F10  Class Aninal
         //F13 Alla djuren är inte inheret class abstract DoSound
         //F11 Varför är polymorfism viktigt : Polymorfism kan definiera en gränsnitt och kan har flera implementeringar
